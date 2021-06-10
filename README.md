@@ -5,7 +5,7 @@ Editing, Web Designing, Coding
 Javascript etc.)
 - 🌱 I’m currently I'm studying Bachelor of Science
 Physics in Kalyani Mahavidyalaya, Kalyani, Nadia.
-- 📫 visit my website https://suprotimdas.github.io/supratim/
+- 📫 visit my website suprotimdas.github.io
 
 <!---
 suprotimdas/suprotimdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
