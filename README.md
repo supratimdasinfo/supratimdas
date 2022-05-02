@@ -3,7 +3,7 @@
 Editing, Web Designing, Coding
 (Python,C++,HTML,CSS,
 Javascript etc.)
-- 🌱 I’m currently I'm studying Bachelor of Science
+- 🌱 I’m currently I'm pursuing Bachelor of Science
 Physics in Kalyani Mahavidyalaya, Kalyani, Nadia.
 - 📫 visit my website suprotimdas.github.io
 
