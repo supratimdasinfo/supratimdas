@@ -10,6 +10,8 @@
 
 ## My Interests
 
+![Supratim Das Physics](https://raw.githubusercontent.com/supratimdasinfo/supratimdas/main/Supratim%20Das%20cover.jpg?raw=True)
+
 🌟 I find my true passion in the world of coding and design, where lines of code become the brushstrokes of my digital canvas. Beyond that, I have an insatiable curiosity for the vast realm of data analysis, where I explore the mysteries of the universe through astronomy, and uncover the hidden properties of materials in the world of science. This journey into computational physics allows me to blend my love for technology with the wonders of the natural world, creating a fascinating and ever-evolving intersection of interests that I wholeheartedly embrace.
 
 ## Skills
