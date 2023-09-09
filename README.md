@@ -10,7 +10,7 @@
 
 ## My Interests
 
-🌟 I'm deeply interested in the world of coding and designing, with a special passion for UI development. My goal is to create simple yet innovative user experiences that leave a lasting impression.
+🌟 I find my true passion in the world of coding and design, where lines of code become the brushstrokes of my digital canvas. Beyond that, I have an insatiable curiosity for the vast realm of data analysis, where I explore the mysteries of the universe through astronomy, and uncover the hidden properties of materials in the world of science. This journey into computational physics allows me to blend my love for technology with the wonders of the natural world, creating a fascinating and ever-evolving intersection of interests that I wholeheartedly embrace.
 
 ## Skills
 
